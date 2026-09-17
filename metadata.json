@@ -1,0 +1,6 @@
+{
+  "name": "Nova Launch",
+  "description": "Official launch countdown for Nova. Next-generation platform designed to redefine creative and operational workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
